@@ -1,0 +1,7 @@
+Asymptotic rank via matrix multiplication and sums of squares: Lean formalisation
+Copyright 2026 Jeroen Zuiddam
+
+This product includes software from github.com/jzuiddam/matrix-mult-exponent (Apache-2.0),
+commit f8478f7b8706db8f176e3cc1954003af9c4113f0: the declarations Tensor3, Tensor3.act,
+Tensor3.Restricts, Tensor3.matMul, Tensor3.identity, OmegaBound.RankLE,
+OmegaBound.IsMMExponent and OmegaBound.omegaMM, copied verbatim into Rect/RankModel/Basic.lean.
